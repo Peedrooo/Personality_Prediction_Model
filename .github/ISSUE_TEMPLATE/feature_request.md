@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: Number of millestone plus issue 
+labels: enhancement
+assignees: Peedrooo
 
 ---
 
