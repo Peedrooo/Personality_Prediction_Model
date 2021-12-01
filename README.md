@@ -24,3 +24,7 @@ The project "Prediction Machine" consist in a model of ANN (Articial Neural Netw
 After preparing the virtual environment, you can clone the repository with a git clone, or just download the zip of the last version and unzip in a folder. After that you be ready to run the project.
 
 
+## Authorship and contributions
+
+Code autorship: [Pedro de Jesus](https://github.com/Peedrooo) <br>
+Database authorship: [Yam Peleg](https://www.kaggle.com/yamqwe)
