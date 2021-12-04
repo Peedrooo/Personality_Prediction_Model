@@ -3,8 +3,7 @@ name: Pull request
 about: contribute with any changes to the code
 title: Name of functionality 
 labels: enhancement
-assignees: GitHub username
-reviewers: Peedrooo
+assignees: Peedrooo
 ---
 
 **Describe the pull request**
