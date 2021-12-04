@@ -2,7 +2,7 @@
 name: Pull request
 about: contribute with any changes to the code
 title: Name of functionality 
-labels: enhancement / documentation
+labels: enhancement
 assignees: GitHub username
 reviewers: Peedrooo
 ---
