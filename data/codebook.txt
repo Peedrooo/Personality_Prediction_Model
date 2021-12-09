@@ -105,7 +105,7 @@ After the main question sequence, the following questions were asked on one fina
 gender		"What is your gender?"		1=Male 2=Female 3=Other
 engnat		"Is English your native language?"		1=Yes 2=No
 age		"What is your age in years?"
-IE		"Do you identify as either an introvert or extravert?"		1=Yes, introvert 2=Yes, extravert 3=No
+IE		"Do you identify as either an introvert or extravert?"		1=Yes, introvert. 2=Yes, extravert. 3=No.
 
 On the final page, the users were also asked "Do you give accurate answers and can we store and use your data for research?". Only those who answered yes were recorded.
 
