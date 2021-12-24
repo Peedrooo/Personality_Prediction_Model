@@ -1,6 +1,6 @@
 # Prediction Machine
 
-## Personality prediction model (Phase alpha in development) 
+## Personality prediction model
 
 The project "Prediction Machine" consist in a model of ANN (Articial Neural Network) that predict the personality of peoples in introvert and outgoing. The classification is given based on the answers, time spent and order of a questionnaire with 91 questions.
 
