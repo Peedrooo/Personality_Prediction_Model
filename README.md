@@ -1,8 +1,9 @@
-# Prediction Machine
+# Personality prediction model
 
-## Personality prediction model
+## Prediction Machine
 
-The project "Prediction Machine" consist in a model of ANN (Articial Neural Network) that predict the personality of peoples in introvert and outgoing. The classification is given based on the answers, time spent and order of a questionnaire with 91 questions.
+
+The project "Personality Prediction Model" consist in a model of ANN (Articial Neural Network) that predict the personality of peoples in introvert and outgoing. The classification is given based on the answers, time spent and order of a questionnaire with 91 questions.
 
 ## Prerequisites
 
@@ -22,7 +23,6 @@ The project "Prediction Machine" consist in a model of ANN (Articial Neural Netw
 ## Installation guide
 
 After preparing the virtual environment, you can clone the repository with a git clone, or just download the zip of the last version and unzip in a folder. After that you be ready to run the project.
-
 
 ## Authorship and contributions
 
