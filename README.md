@@ -2,7 +2,6 @@
 
 ## Prediction Machine
 
-
 The project "Personality Prediction Model" consist in a model of ANN (Articial Neural Network) that predict the personality of peoples in introvert and outgoing. The classification is given based on the answers, time spent and order of a questionnaire with 91 questions.
 
 ## Prerequisites
@@ -15,10 +14,11 @@ The project "Personality Prediction Model" consist in a model of ANN (Articial N
 
 * conda create -n machine python=3.8
 * conda activate machine
-* pip install pandas
-* pip install numpy
-* pip install pathlib
-* pip install tensorflow
+* conda install pandas
+* conda install numpy
+* conda install pathlib
+* conda install tensorflow
+* conda install -n machine ipykernel --update-deps --force-reinstall
 
 ## Installation guide
 
